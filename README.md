@@ -27,5 +27,29 @@ Follow these steps to set up the project locally:
    cd your-repo-name
 3. Install dependencies:
    ```bash
-   npm install
+   bun install
+4. Start the development server:
+   ```bash
+   bun run dev
+## Usage
+After running the project locally:
 
+Open your browser and go to http://localhost:5173
+Navigate between pages using the navigation menu
+Use the search bar to filter data
+Sort and filter the content as needed
+Submit forms to interact with the app's features
+
+## Features
+Multi-page routing with React Router
+API integration with Axios
+Search, filter, and sort functionality
+Responsive layout for desktop and mobile
+Clean and modular component structure
+
+## Technologies Used
+React 19
+React Router DOM
+Axios
+JavaScript (ES6+)
+HTML5 & CSS3 

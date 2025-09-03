@@ -23,7 +23,9 @@ Follow these steps to set up the project locally:
    git clone https://github.com/username/repo-name.git
    
 2.Navigate to the project directory:
+   ```bash
    cd your-repo-name
 3.Install dependencies:
+   ```bash
    npm install
 
